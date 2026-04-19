@@ -1,5 +1,4 @@
 # STM32-FreeRTOS-System-Monitor
-# STM32H5 FreeRTOS Sensor Pipeline Demo
 
 A small embedded firmware demo for STM32H5 using FreeRTOS.
 

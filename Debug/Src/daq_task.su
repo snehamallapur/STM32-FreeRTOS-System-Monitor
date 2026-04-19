@@ -1,0 +1,3 @@
+../Src/daq_task.c:11:14:DAQ_ReadTemperature	24	static
+../Src/daq_task.c:28:17:DAQ_ReadRNG	16	static
+../Src/daq_task.c:35:6:DAQ_Task	32	static

@@ -1,0 +1,4 @@
+../Src/processing_task.c:11:14:PROC_ComputeAverage	16	static
+../Src/processing_task.c:20:14:PROC_ComputeMin	16	static
+../Src/processing_task.c:29:14:PROC_ComputeMax	16	static
+../Src/processing_task.c:38:6:Processing_Task	48	static

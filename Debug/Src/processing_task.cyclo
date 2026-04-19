@@ -1,0 +1,4 @@
+../Src/processing_task.c:11:14:PROC_ComputeAverage	2
+../Src/processing_task.c:20:14:PROC_ComputeMin	3
+../Src/processing_task.c:29:14:PROC_ComputeMax	3
+../Src/processing_task.c:38:6:Processing_Task	2
